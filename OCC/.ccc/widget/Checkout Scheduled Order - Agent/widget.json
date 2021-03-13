@@ -1,0 +1,6 @@
+{
+  "widgetType": "agentCheckoutScheduledOrder",
+  "version": 1,
+  "displayName": "Checkout Scheduled Order - Agent",
+  "elementized": false
+}

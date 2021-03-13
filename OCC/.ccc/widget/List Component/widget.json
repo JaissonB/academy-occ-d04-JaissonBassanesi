@@ -1,0 +1,9 @@
+{
+  "widgetType": "listener",
+  "version": 1,
+  "displayName": "List Component",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "listener"
+}

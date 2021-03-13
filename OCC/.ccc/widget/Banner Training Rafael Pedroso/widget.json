@@ -1,0 +1,10 @@
+{
+  "widgetType": "bannerTrainingRafaelPedroso",
+  "version": 1,
+  "displayName": "Banner Training Rafael Pedroso",
+  "elementized": false,
+  "global": false,
+  "i18nresources": "bannerTrainingRafaelPedroso",
+  "source": 101,
+  "javascript": "banner-training-rafael-pedroso"
+}

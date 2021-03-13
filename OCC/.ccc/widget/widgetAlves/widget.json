@@ -1,0 +1,9 @@
+{
+  "widgetType": "widgetalves",
+  "version": 1,
+  "displayName": "widgetAlves",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "widgetalves"
+}

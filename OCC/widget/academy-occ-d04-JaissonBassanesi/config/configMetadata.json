@@ -1,0 +1,13 @@
+{
+  "widgetDescriptorName": "academy-occ-d04-JaissonBassanesi",
+  "properties": [
+    {
+      "name": "Decoration",
+      "id": "academy-occ-d04-JaissonBassanesi",
+      "helpTextResourceId": "Collection name",
+      "labelResourceId": "Collection",
+      "type": "collectionType",
+      "maxLength": 1
+    }
+  ]
+}

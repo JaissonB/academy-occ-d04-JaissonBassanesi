@@ -1,0 +1,10 @@
+{
+  "widgetType": "bannerCapacitacaoFranchesco",
+  "version": 1,
+  "displayName": "Banner Capacitacao Franchesco",
+  "elementized": false,
+  "global": false,
+  "i18nresources": "bannerCapacitacaoFranchesco",
+  "source": 101,
+  "javascript": "banner-capacitacao-franchesco"
+}

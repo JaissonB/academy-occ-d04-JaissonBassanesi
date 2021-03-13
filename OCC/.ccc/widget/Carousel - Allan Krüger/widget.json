@@ -1,0 +1,9 @@
+{
+  "widgetType": "carousel-allan-kruger",
+  "version": 1,
+  "displayName": "Carousel - Allan Krüger",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "carousel-allan-kruger"
+}

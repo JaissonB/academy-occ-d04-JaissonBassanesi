@@ -1,0 +1,10 @@
+{
+  "widgetType": "B2CGNZaxyContactUs",
+  "version": 1,
+  "displayName": "B2CGNZaxy - Contact Us",
+  "elementized": false,
+  "global": false,
+  "i18nresources": "B2CGNZaxyContactUs",
+  "source": 101,
+  "javascript": "B2CGNZaxyContactUs"
+}

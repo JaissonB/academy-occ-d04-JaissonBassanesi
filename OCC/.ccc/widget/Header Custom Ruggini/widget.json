@@ -1,0 +1,10 @@
+{
+  "widgetType": "headerCustomRuggini",
+  "version": 11,
+  "displayName": "Header Custom Ruggini",
+  "elementized": true,
+  "global": false,
+  "i18nresources": "headerCustomRuggini",
+  "source": 101,
+  "javascript": "header-custom-ruggini"
+}

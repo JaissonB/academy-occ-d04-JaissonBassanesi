@@ -1,0 +1,10 @@
+{
+  "widgetType": "service-checkout",
+  "version": 1,
+  "displayName": "service-checkout",
+  "elementized": false,
+  "global": false,
+  "i18nresources": "service-checkout",
+  "source": 101,
+  "javascript": "service-checkout"
+}

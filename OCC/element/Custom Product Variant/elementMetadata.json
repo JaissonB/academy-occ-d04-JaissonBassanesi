@@ -1,0 +1,27 @@
+{
+  "availableToAllWidgets": false,
+  "children": [],
+  "configOptions": [],
+  "inline": true,
+  "supportedWidgetType": [
+    "productDetails"
+  ],
+  "tag": "custom-product-variant",
+  "translations": [
+    {
+      "description": "Custom Product Variant.",
+      "language": "en",
+      "title": "Custom Product Variant"
+    },
+    {
+      "description": "Variante de produto customizado",
+      "language": "pt_BR",
+      "title": "Custom Product Variant"
+    },
+    {
+      "description": "Variante de producto personalizada",
+      "language": "es",
+      "title": "Custom Product Variant"
+    }
+  ]
+}

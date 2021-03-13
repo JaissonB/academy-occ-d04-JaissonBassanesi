@@ -1,0 +1,10 @@
+{
+  "widgetType": "custom-header-webinar-occ",
+  "version": 1,
+  "displayName": "custom-header-webinar-occ",
+  "elementized": false,
+  "global": false,
+  "i18nresources": "custom-header-webinar-occ",
+  "source": 101,
+  "javascript": "custom-header-webinar-occ"
+}

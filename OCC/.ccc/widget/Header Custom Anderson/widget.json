@@ -1,0 +1,10 @@
+{
+  "widgetType": "headerCustomAnderson",
+  "version": 11,
+  "displayName": "Header Custom Anderson",
+  "elementized": true,
+  "global": false,
+  "i18nresources": "headerCustomAnderson",
+  "source": 101,
+  "javascript": "header-custom-anderson"
+}

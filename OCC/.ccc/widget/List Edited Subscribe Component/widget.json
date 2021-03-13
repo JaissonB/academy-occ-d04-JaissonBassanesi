@@ -1,0 +1,9 @@
+{
+  "widgetType": "editingListener",
+  "version": 1,
+  "displayName": "List Edited Subscribe Component",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "editingListener"
+}

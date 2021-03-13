@@ -1,0 +1,9 @@
+{
+  "widgetType": "pubsub2-carlos",
+  "version": 1,
+  "displayName": "pubsub2-carlos",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "pubsub2-carlos"
+}

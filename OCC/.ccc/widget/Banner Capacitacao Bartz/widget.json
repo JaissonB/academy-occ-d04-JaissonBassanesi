@@ -1,0 +1,10 @@
+{
+  "widgetType": "bannerCapacitacaoBartz",
+  "version": 1,
+  "displayName": "Banner Capacitacao Bartz",
+  "elementized": false,
+  "global": false,
+  "i18nresources": "bannerCapacitacaoBartz",
+  "source": 101,
+  "javascript": "banner-capacitacao-bartz"
+}

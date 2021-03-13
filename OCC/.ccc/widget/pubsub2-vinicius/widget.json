@@ -1,0 +1,10 @@
+{
+  "widgetType": "pubsub2-vinicius",
+  "version": 1,
+  "displayName": "pubsub2-vinicius",
+  "elementized": false,
+  "global": false,
+  "i18nresources": "pubsub2-vinicius",
+  "source": 101,
+  "javascript": "pubsub2-vinicius"
+}

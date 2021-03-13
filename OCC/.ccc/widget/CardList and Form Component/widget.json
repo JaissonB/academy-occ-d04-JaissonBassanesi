@@ -1,0 +1,9 @@
+{
+  "widgetType": "cardsForm",
+  "version": 1,
+  "displayName": "CardList and Form Component",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "cardsForm"
+}

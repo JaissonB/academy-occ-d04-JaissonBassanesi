@@ -1,0 +1,10 @@
+{
+  "widgetType": "academy-occ-d04-PedroCosta",
+  "version": 1,
+  "displayName": "academy-occ-d04-PedroCosta",
+  "elementized": false,
+  "global": false,
+  "i18nresources": "academy-occ-d04-PedroCosta",
+  "source": 101,
+  "javascript": "academy-occ-d04-PedroCosta"
+}

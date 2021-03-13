@@ -1,0 +1,10 @@
+{
+  "widgetType": "sda-product-swiper-with-banner",
+  "version": 1,
+  "displayName": "sda-product-swiper-with-banner",
+  "elementized": false,
+  "global": false,
+  "i18nresources": "sda-product-swiper-with-banner",
+  "source": 101,
+  "javascript": "sda-product-swiper-with-banner"
+}

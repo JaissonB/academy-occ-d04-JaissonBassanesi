@@ -1,0 +1,9 @@
+{
+  "widgetType": "widgetcaio-bannercard",
+  "version": 1,
+  "displayName": "widgetCaio - bannerCard",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "widgetcaio-bannercard"
+}

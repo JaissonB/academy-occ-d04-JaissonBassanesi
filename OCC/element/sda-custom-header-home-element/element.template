@@ -1,0 +1,5 @@
+<!-- ko if: initialized() && $data.elements.hasOwnProperty('sda-custom-header-home-element') -->
+  <div>
+    </div>
+  <!-- /ko -->
+<!-- /ko -->

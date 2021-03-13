@@ -1,0 +1,25 @@
+<!-- ko if: initialized() && $data.elements.hasOwnProperty('custom-bundle') -->
+<!-- ko with: $data['elements']['custom-bundle'] -->
+<!-- ko if: produtosBundle -->
+<div class="products-bundle">
+    <!-- ko foreach: produtosBundleArray -->
+    <div class="product-bundle">
+        <div class="product-bundle-image">
+            <img data-bind="ccResizeImage: {
+                source: $data.parentProducts[0].primaryMediumImageURL,
+                alt: $data.parentProducts[0].displayName,
+                size:'150,150',
+                errorSrc:'images/noImage.png',
+                errorAlt:'No Image Found'}"></img>
+        </div>
+        <div class="product-bundle-text">
+            <h3 class="product-bundle-name" data-bind="text: $data.parentProducts[0].displayName"></h3>
+            <p class="product-bundle-description" data-bind="text: $data.parentProducts[0].description"></p>
+        </div>
+    
+    </div>
+    <!-- /ko -->
+</div>
+<!-- /ko -->
+<!-- /ko -->
+<!-- /ko -->

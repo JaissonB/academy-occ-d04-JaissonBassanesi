@@ -1,0 +1,10 @@
+{
+  "widgetType": "bannerCapacitacaoGustavo",
+  "version": 1,
+  "displayName": "Banner Capacitacao Gustavo",
+  "elementized": false,
+  "global": false,
+  "i18nresources": "bannerCapacitacaoGustavo",
+  "source": 101,
+  "javascript": "banner-capacitacao-gustavo"
+}

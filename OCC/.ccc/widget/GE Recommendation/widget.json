@@ -1,0 +1,9 @@
+{
+  "widgetType": "gerecommendation",
+  "version": 1,
+  "displayName": "GE Recommendation",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "gerecommendation"
+}

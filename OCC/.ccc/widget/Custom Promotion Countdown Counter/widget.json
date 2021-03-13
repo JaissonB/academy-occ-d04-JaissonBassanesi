@@ -1,0 +1,10 @@
+{
+  "widgetType": "customPromotionCountdownCounter",
+  "version": 1,
+  "displayName": "Custom Promotion Countdown Counter",
+  "elementized": false,
+  "global": false,
+  "i18nresources": "customPromotionCountdownCounter",
+  "source": 101,
+  "javascript": "customPromotionCountdownCounter"
+}

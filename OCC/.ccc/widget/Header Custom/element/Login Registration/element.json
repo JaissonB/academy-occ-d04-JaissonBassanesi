@@ -1,0 +1,8 @@
+{
+  "tag": "header-login-registration-custom",
+  "source": 101,
+  "type": "fragment",
+  "title": "Login Registration",
+  "widgetType": "headerCustom",
+  "version": 12
+}

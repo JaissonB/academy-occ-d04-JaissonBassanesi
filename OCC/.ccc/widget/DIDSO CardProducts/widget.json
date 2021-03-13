@@ -1,0 +1,9 @@
+{
+  "widgetType": "didsocardproducts",
+  "version": 1,
+  "displayName": "DIDSO CardProducts",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "didsocardproducts"
+}

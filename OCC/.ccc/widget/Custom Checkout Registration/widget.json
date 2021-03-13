@@ -1,0 +1,10 @@
+{
+  "widgetType": "customCheckoutRegistration",
+  "version": 1,
+  "displayName": "Custom Checkout Registration",
+  "elementized": false,
+  "global": false,
+  "i18nresources": "customCheckoutRegistration",
+  "source": 101,
+  "javascript": "customCheckoutRegistration"
+}

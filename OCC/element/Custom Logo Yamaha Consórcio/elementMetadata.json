@@ -1,0 +1,28 @@
+{
+  "availableToAllWidgets": false,
+  "children": [],
+  "configOptions": [],
+  "inline": true,
+  "supportedWidgetType": [
+    "megaMenu",
+    "headerWidget"
+  ],
+  "tag": "custom-logo-yamaha-consorcio",
+  "translations": [
+    {
+      "description": "Add the logo Yamaha Consórcio.",
+      "language": "en",
+      "title": "Custom Logo Yamaha Consórcio"
+    },
+    {
+      "description": "Adicione a logo Yamaha Consórcio.",
+      "language": "pt_BR",
+      "title": "Custom Logo Yamaha Consórcio"
+    },
+    {
+      "description": "Agregar la logo Yamaha Consórcio.",
+      "language": "es",
+      "title": "Custom Logo Yamaha Consórcio"
+    }
+  ]
+}

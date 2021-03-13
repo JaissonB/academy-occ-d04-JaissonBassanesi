@@ -1,0 +1,9 @@
+{
+  "widgetType": "didsofragments",
+  "version": 1,
+  "displayName": "DIDSO Fragments",
+  "elementized": true,
+  "global": false,
+  "source": 101,
+  "javascript": "didsofragments"
+}

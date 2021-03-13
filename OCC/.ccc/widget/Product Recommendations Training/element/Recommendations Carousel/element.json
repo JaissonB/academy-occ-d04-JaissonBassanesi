@@ -1,0 +1,8 @@
+{
+  "tag": "recommendations-training",
+  "source": 101,
+  "type": "fragment",
+  "title": "Recommendations Carousel",
+  "widgetType": "productRecommendationsTraining",
+  "version": 1
+}

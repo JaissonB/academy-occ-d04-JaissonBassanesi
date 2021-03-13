@@ -1,0 +1,8 @@
+{
+  "tag": "product-price-range",
+  "source": 100,
+  "type": "subFragment",
+  "title": "Price Range",
+  "widgetType": "productDetails",
+  "version": 15
+}

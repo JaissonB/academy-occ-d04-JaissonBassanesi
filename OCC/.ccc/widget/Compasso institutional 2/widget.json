@@ -1,0 +1,9 @@
+{
+  "widgetType": "CompassoInstitucional2_v1",
+  "version": 1,
+  "displayName": "Compasso institutional 2",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "compasso-institucional2"
+}

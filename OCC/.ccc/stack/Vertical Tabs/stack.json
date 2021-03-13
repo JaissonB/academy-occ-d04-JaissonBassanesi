@@ -1,0 +1,21 @@
+{
+  "stackType": "verticalTabs",
+  "regions": [
+    {
+      "repositoryId": "verticalTabsSectionOne",
+      "name": "One"
+    },
+    {
+      "repositoryId": "verticalTabsSectionTwo",
+      "name": "Two"
+    },
+    {
+      "repositoryId": "verticalTabsSectionThree",
+      "name": "Three"
+    }
+  ],
+  "version": 1,
+  "displayName": "Vertical Tabs",
+  "maxVariants": 10,
+  "canEditSubRegion": true
+}

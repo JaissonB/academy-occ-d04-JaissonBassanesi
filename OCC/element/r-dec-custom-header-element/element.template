@@ -1,0 +1,25 @@
+<!-- ko if: initialized() && $data.elements.hasOwnProperty('r-dec-custom-header-element') -->
+<div id="container--r-dec-custom-header-element">
+    <div class="header-content">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-3">
+                    <!-- <div data-bind="element: 'header-logo'"></div> -->
+                    <img src="/file/v600143514027463903/general/Real-logo.svg" class="logo"/>
+                </div>
+                <div class="col-md-5">
+                    <div data-bind="element: 'search'" class="search-box-container"></div>
+                </div>
+                <div class="col-md-2">
+                    <div class="r-dec-custom-login-registration" data-bind="element: 'r-dec-custom-login-registration'"></div>
+                </div>
+                <div class="col-md-2">
+                    <div data-bind="element: 'header-dropdown-minicart'"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- /ko -->

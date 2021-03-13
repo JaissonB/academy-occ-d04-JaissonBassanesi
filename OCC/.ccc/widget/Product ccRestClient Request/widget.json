@@ -1,0 +1,9 @@
+{
+  "widgetType": "productRenderer",
+  "version": 1,
+  "displayName": "Product ccRestClient Request",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "productRenderer"
+}

@@ -1,0 +1,19 @@
+{
+  "availableToAllWidgets": true,
+  "children": [],
+  "configOptions": [],
+  "inline": false,
+  "tag": "sda-custom-header-home-element",
+  "translations": [
+    {
+      "description": "sda-custom-header-home-element",
+      "language": "en",
+      "title": "sda-custom-header-home-element"
+    },
+    {
+      "description": "sda-custom-header-home-element",
+      "language": "pt_BR",
+      "title": "sda-custom-header-home-element"
+    }
+  ]
+}

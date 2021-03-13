@@ -1,0 +1,9 @@
+{
+  "widgetType": "exercicio-de-calculo-1-pellicano",
+  "version": 1,
+  "displayName": "Exercício de Calculo 1 do Pellicano",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "exercicio-de-calculo-1-pellicano"
+}

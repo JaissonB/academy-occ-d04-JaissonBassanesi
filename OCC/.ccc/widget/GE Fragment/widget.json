@@ -1,0 +1,9 @@
+{
+  "widgetType": "gefragment",
+  "version": 1,
+  "displayName": "GE Fragment",
+  "elementized": true,
+  "global": false,
+  "source": 101,
+  "javascript": "gefragment"
+}

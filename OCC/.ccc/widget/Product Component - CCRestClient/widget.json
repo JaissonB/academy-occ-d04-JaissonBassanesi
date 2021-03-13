@@ -1,0 +1,9 @@
+{
+  "widgetType": "renderer",
+  "version": 1,
+  "displayName": "Product Component - CCRestClient",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "renderer"
+}

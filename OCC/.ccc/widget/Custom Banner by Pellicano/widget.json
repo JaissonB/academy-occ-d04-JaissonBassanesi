@@ -1,0 +1,9 @@
+{
+  "widgetType": "custom-banner-by-pellicano",
+  "version": 1,
+  "displayName": "Custom Banner by Pellicano",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "custom-banner-by-pellicano"
+}

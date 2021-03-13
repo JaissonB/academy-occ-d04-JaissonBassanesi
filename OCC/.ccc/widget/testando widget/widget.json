@@ -1,0 +1,10 @@
+{
+  "widgetType": "testandoWidget",
+  "version": 1,
+  "displayName": "testando widget",
+  "elementized": false,
+  "global": false,
+  "i18nresources": "testandoWidget",
+  "source": 101,
+  "javascript": "testandoWidget"
+}

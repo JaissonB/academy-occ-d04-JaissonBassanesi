@@ -1,0 +1,9 @@
+{
+  "widgetType": "SomaDe2Elementos",
+  "version": 1,
+  "displayName": "Widget Sum - Rafael Zorzenon",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "SomaDe2Elementos"
+}

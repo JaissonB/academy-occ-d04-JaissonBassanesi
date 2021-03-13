@@ -1,0 +1,10 @@
+{
+  "widgetType": "menu-bradesco",
+  "version": 1,
+  "displayName": "menu-bradesco",
+  "elementized": false,
+  "global": false,
+  "i18nresources": "menu-bradesco",
+  "source": 101,
+  "javascript": "menu-bradesco"
+}

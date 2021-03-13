@@ -1,0 +1,8 @@
+{
+  "tag": "custom-recommendations-carousel",
+  "source": 101,
+  "type": "fragment",
+  "title": "Recommendations Carousel",
+  "widgetType": "customProductRecommendations",
+  "version": 1
+}

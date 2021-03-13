@@ -1,0 +1,9 @@
+{
+  "widgetType": "CustomAds",
+  "version": 1,
+  "displayName": "Custom Header ADS",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "CustomAds"
+}

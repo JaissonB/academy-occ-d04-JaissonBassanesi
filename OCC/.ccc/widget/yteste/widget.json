@@ -1,0 +1,9 @@
+{
+  "widgetType": "yteste",
+  "version": 1,
+  "displayName": "yteste",
+  "elementized": true,
+  "global": false,
+  "source": 101,
+  "javascript": "yteste"
+}

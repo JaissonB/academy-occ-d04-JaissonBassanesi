@@ -1,0 +1,10 @@
+{
+  "widgetType": "academy-occ-d01-viniciusTres",
+  "version": 1,
+  "displayName": "academy-occ-d01-viniciusTres",
+  "elementized": false,
+  "global": false,
+  "i18nresources": "academy-occ-d01-viniciusTres",
+  "source": 101,
+  "javascript": "academy-occ-d01-viniciusTres"
+}

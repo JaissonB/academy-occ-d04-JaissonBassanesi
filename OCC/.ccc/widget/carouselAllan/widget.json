@@ -1,0 +1,9 @@
+{
+  "widgetType": "carouselallan",
+  "version": 1,
+  "displayName": "carouselAllan",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "carouselallan"
+}

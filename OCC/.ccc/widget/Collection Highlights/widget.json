@@ -1,0 +1,10 @@
+{
+  "widgetType": "collection-highlights",
+  "version": 1,
+  "displayName": "Collection Highlights",
+  "elementized": true,
+  "global": false,
+  "i18nresources": "collection",
+  "source": 101,
+  "javascript": "collection-widget"
+}

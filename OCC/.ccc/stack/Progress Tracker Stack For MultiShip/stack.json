@@ -1,0 +1,21 @@
+{
+  "stackType": "progressTrackerMultiShip",
+  "regions": [
+    {
+      "repositoryId": "progressTrackerMultiShipStageOne",
+      "name": "One"
+    },
+    {
+      "repositoryId": "progressTrackerMultiShipStageTwo",
+      "name": "Two"
+    },
+    {
+      "repositoryId": "progressTrackerMultiShipStageThree",
+      "name": "Three"
+    }
+  ],
+  "version": 1,
+  "displayName": "Progress Tracker Stack For MultiShip",
+  "maxVariants": 10,
+  "canEditSubRegion": true
+}

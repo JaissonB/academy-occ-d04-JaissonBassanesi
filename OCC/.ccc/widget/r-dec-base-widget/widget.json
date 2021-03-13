@@ -1,0 +1,10 @@
+{
+  "widgetType": "r-dec-base-widget",
+  "version": 1,
+  "displayName": "r-dec-base-widget",
+  "elementized": false,
+  "global": false,
+  "i18nresources": "r-dec-base-widget",
+  "source": 101,
+  "javascript": "r-dec-base-widget"
+}

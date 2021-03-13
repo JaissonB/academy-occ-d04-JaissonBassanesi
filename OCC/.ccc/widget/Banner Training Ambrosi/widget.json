@@ -1,0 +1,10 @@
+{
+  "widgetType": "bannerTrainingAmbrosi",
+  "version": 1,
+  "displayName": "Banner Training Ambrosi",
+  "elementized": false,
+  "global": false,
+  "i18nresources": "bannerTrainingAmbrosi",
+  "source": 101,
+  "javascript": "banner-training-ambrosi"
+}

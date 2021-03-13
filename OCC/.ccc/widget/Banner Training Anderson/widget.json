@@ -1,0 +1,10 @@
+{
+  "widgetType": "bannerTrainingAnderson",
+  "version": 1,
+  "displayName": "Banner Training Anderson",
+  "elementized": false,
+  "global": false,
+  "i18nresources": "bannerTrainingAnderson",
+  "source": 101,
+  "javascript": "banner-training-anderson"
+}

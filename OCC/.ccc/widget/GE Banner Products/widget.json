@@ -1,0 +1,9 @@
+{
+  "widgetType": "gebannerproducts",
+  "version": 1,
+  "displayName": "GE Banner Products",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "gebannerproducts"
+}

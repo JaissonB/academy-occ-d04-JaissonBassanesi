@@ -1,0 +1,9 @@
+{
+  "widgetType": "rafael",
+  "version": 1,
+  "displayName": "Rafael",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "rafael"
+}

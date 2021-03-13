@@ -1,0 +1,10 @@
+{
+  "widgetType": "sda-simple-banner",
+  "version": 1,
+  "displayName": "sda-simple-banner",
+  "elementized": false,
+  "global": false,
+  "i18nresources": "sda-simple-banner",
+  "source": 101,
+  "javascript": "sda-simple-banner"
+}

@@ -1,0 +1,10 @@
+{
+  "widgetType": "AdyenPaymentWidget",
+  "version": 1,
+  "displayName": "Adyen",
+  "elementized": false,
+  "global": false,
+  "i18nresources": "adyen-checkout",
+  "source": 101,
+  "javascript": "adyen-checkout.min"
+}

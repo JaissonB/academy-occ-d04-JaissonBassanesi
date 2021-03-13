@@ -1,0 +1,8 @@
+{
+  "tag": "agent-product-details-display-sku-properties",
+  "source": 100,
+  "type": "fragment",
+  "title": "SKU Properties",
+  "widgetType": "agentProductDetails",
+  "version": 2
+}

@@ -1,0 +1,10 @@
+{
+  "widgetType": "r-dec-custom-header",
+  "version": 1,
+  "displayName": "r-dec-custom-header",
+  "elementized": false,
+  "global": false,
+  "i18nresources": "r-dec-custom-header",
+  "source": 101,
+  "javascript": "r-dec-custom-header"
+}

@@ -1,0 +1,9 @@
+{
+  "widgetType": "rafael-fragment",
+  "version": 1,
+  "displayName": "Rafael-fragment",
+  "elementized": true,
+  "global": false,
+  "source": 101,
+  "javascript": "rafael-fragment"
+}

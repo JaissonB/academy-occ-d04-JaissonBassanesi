@@ -1,0 +1,19 @@
+{
+  "availableToAllWidgets": true,
+  "children": [],
+  "configOptions": [],
+  "inline": false,
+  "tag": "r-dec-custom-login-registration",
+  "translations": [
+    {
+      "description": "r-dec-custom-login-registration",
+      "language": "en",
+      "title": "r-dec-custom-login-registration"
+    },
+    {
+      "description": "r-dec-custom-login-registration",
+      "language": "pt_BR",
+      "title": "r-dec-custom-login-registration"
+    }
+  ]
+}

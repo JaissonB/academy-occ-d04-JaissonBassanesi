@@ -1,0 +1,9 @@
+{
+  "widgetType": "GetProduct",
+  "version": 1,
+  "displayName": "RZ - Get Product with CCRestClient",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "getProduct"
+}

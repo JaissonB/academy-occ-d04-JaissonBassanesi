@@ -1,0 +1,10 @@
+{
+  "widgetType": "bannerCapacitacaoRuggini",
+  "version": 1,
+  "displayName": "Banner Capacitacao Ruggini",
+  "elementized": false,
+  "global": false,
+  "i18nresources": "bannerCapacitacaoRuggini",
+  "source": 101,
+  "javascript": "banner-capacitacao-ruggini"
+}

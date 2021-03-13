@@ -1,0 +1,9 @@
+{
+  "widgetType": "gewidgetparameter",
+  "version": 1,
+  "displayName": "GE Widget Parameter (en)",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "gewidgetparameter"
+}

@@ -1,0 +1,6 @@
+{
+  "widgetType": "splitPayments",
+  "version": 11,
+  "displayName": "Payment Methods",
+  "elementized": false
+}

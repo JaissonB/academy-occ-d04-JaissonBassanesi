@@ -1,0 +1,9 @@
+{
+  "widgetType": "CustomCard-Jardel",
+  "version": 1,
+  "displayName": "CustomCard-Jardel",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "CustomCard-Jardel"
+}

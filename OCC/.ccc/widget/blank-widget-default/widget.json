@@ -1,0 +1,10 @@
+{
+  "widgetType": "blank-widget-default",
+  "version": 1,
+  "displayName": "blank-widget-default",
+  "elementized": false,
+  "global": false,
+  "i18nresources": "blank-widget-default",
+  "source": 101,
+  "javascript": "blank-widget-default"
+}

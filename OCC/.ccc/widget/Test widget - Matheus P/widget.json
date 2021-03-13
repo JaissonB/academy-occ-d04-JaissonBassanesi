@@ -1,0 +1,9 @@
+{
+  "widgetType": "Hello-test",
+  "version": 1,
+  "displayName": "Test widget - Matheus P",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "helloTest"
+}

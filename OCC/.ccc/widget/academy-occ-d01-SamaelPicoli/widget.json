@@ -1,0 +1,10 @@
+{
+  "widgetType": "academy-occ-d01-SamaelPicoli",
+  "version": 1,
+  "displayName": "academy-occ-d01-SamaelPicoli",
+  "elementized": false,
+  "global": false,
+  "i18nresources": "academy-occ-d01-SamaelPicoli",
+  "source": 101,
+  "javascript": "academy-occ-d01-SamaelPicoli"
+}

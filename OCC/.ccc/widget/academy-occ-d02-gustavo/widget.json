@@ -1,0 +1,10 @@
+{
+  "widgetType": "academy-occ-d02-gustavo",
+  "version": 1,
+  "displayName": "academy-occ-d02-gustavo",
+  "elementized": false,
+  "global": false,
+  "i18nresources": "academy-occ-d02-gustavo",
+  "source": 101,
+  "javascript": "academy-occ-d02-gustavo"
+}

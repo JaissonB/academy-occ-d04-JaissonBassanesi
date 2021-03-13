@@ -1,0 +1,10 @@
+{
+  "widgetType": "sda-most-purchase",
+  "version": 1,
+  "displayName": "sda-most-purchase",
+  "elementized": false,
+  "global": false,
+  "i18nresources": "sda-most-purchase",
+  "source": 101,
+  "javascript": "sda-most-purchase"
+}

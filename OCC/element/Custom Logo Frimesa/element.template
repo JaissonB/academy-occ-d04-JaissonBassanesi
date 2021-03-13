@@ -1,0 +1,5 @@
+<div class="row">
+  <div class="logo">
+    <a data-bind="ccLink: logoPageLink" id="CC-header-logoImageLink"><img data-bind="attr: { alt: logoAltText }" src="/file/general/logo-ceratti.png"></a>
+  </div>
+</div>

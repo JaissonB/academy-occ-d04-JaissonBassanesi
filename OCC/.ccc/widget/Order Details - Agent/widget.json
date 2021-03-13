@@ -1,0 +1,6 @@
+{
+  "widgetType": "agentAccountOrderDetails",
+  "version": 4,
+  "displayName": "Order Details - Agent",
+  "elementized": true
+}

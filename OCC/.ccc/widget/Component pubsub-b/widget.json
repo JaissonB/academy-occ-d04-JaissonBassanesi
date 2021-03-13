@@ -1,0 +1,9 @@
+{
+  "widgetType": "pubsubb",
+  "version": 1,
+  "displayName": "Component pubsub-b",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "pubsubb"
+}

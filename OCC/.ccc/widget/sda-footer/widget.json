@@ -1,0 +1,10 @@
+{
+  "widgetType": "sda-footer",
+  "version": 1,
+  "displayName": "sda-footer",
+  "elementized": false,
+  "global": false,
+  "i18nresources": "sda-footer",
+  "source": 101,
+  "javascript": "sda-footer"
+}

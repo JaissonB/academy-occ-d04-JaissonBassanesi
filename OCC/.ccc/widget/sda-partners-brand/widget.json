@@ -1,0 +1,10 @@
+{
+  "widgetType": "sda-partners-brand",
+  "version": 1,
+  "displayName": "sda-partners-brand",
+  "elementized": false,
+  "global": false,
+  "i18nresources": "sda-partners-brand",
+  "source": 101,
+  "javascript": "sda-partners-brand"
+}

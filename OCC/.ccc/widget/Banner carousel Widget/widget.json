@@ -1,0 +1,9 @@
+{
+  "widgetType": "bannerCarouselWidget",
+  "version": 1,
+  "displayName": "Banner carousel Widget",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "bannerCarouselWidget"
+}

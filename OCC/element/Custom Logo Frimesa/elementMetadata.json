@@ -1,0 +1,24 @@
+{
+  "availableToAllWidgets": true,
+  "children": [],
+  "configOptions": [],
+  "inline": true,
+  "tag": "custom-logo-frimesa",
+  "translations": [
+    {
+      "description": "Add the logo Frimesa.",
+      "language": "en",
+      "title": "Custom Logo Frimesa"
+    },
+    {
+      "description": "Adicione a logo Frimesa.",
+      "language": "pt_BR",
+      "title": "Custom Logo Frimesa"
+    },
+    {
+      "description": "Agregar la logo Frimesa.",
+      "language": "es",
+      "title": "Custom Logo Frimesa"
+    }
+  ]
+}

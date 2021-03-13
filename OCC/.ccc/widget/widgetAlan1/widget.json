@@ -1,0 +1,9 @@
+{
+  "widgetType": "widgetAlan",
+  "version": 1,
+  "displayName": "widgetAlan1",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "widget"
+}

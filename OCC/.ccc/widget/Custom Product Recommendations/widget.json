@@ -1,0 +1,10 @@
+{
+  "widgetType": "customProductRecommendations",
+  "version": 1,
+  "displayName": "Custom Product Recommendations",
+  "elementized": true,
+  "global": false,
+  "i18nresources": "customProductRecommendations",
+  "source": 101,
+  "javascript": "customProductRecommendations"
+}

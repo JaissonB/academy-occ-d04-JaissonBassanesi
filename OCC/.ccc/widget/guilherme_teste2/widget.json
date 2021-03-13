@@ -1,0 +1,9 @@
+{
+  "widgetType": "guilherme_teste2",
+  "version": 1,
+  "displayName": "guilherme_teste2",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "guilherme_teste2"
+}

@@ -1,0 +1,9 @@
+{
+  "widgetType": "bannerTrainingNat",
+  "version": 1,
+  "displayName": "Banner training Nat",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "banner-training-nat"
+}

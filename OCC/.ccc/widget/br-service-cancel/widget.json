@@ -1,0 +1,9 @@
+{
+  "widgetType": "br-service-cancel",
+  "version": 1,
+  "displayName": "br-service-cancel",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "br-service-cancel"
+}

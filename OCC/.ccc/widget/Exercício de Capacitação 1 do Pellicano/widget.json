@@ -1,0 +1,9 @@
+{
+  "widgetType": "exercicio-de-capacitacao-1-pellicano",
+  "version": 1,
+  "displayName": "Exercício de Capacitação 1 do Pellicano",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "exercicio-de-capacitacao-1-pellicano"
+}

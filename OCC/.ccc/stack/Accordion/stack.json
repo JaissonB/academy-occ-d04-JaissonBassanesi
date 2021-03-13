@@ -1,0 +1,21 @@
+{
+  "stackType": "accordionTabs",
+  "regions": [
+    {
+      "repositoryId": "accordionTabsSectionOne",
+      "name": "One"
+    },
+    {
+      "repositoryId": "accordionTabsSectionTwo",
+      "name": "Two"
+    },
+    {
+      "repositoryId": "accordionTabsSectionThree",
+      "name": "Three"
+    }
+  ],
+  "version": 1,
+  "displayName": "Accordion",
+  "maxVariants": 10,
+  "canEditSubRegion": true
+}

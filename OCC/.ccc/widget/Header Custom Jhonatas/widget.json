@@ -1,0 +1,10 @@
+{
+  "widgetType": "headerCustomJhonatas",
+  "version": 11,
+  "displayName": "Header Custom Jhonatas",
+  "elementized": true,
+  "global": false,
+  "i18nresources": "headerCustomJhonatas",
+  "source": 101,
+  "javascript": "header-custom-jhonatas"
+}

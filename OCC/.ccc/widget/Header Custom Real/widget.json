@@ -1,0 +1,10 @@
+{
+  "widgetType": "headerCustomReal",
+  "version": 11,
+  "displayName": "Header Custom Real",
+  "elementized": true,
+  "global": false,
+  "i18nresources": "headerCustomReal",
+  "source": 101,
+  "javascript": "header-custom-real"
+}

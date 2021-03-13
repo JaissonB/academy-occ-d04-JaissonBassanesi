@@ -1,0 +1,10 @@
+{
+  "widgetType": "academy-occ-d04-viniTres",
+  "version": 1,
+  "displayName": "academy-occ-d04-viniTres",
+  "elementized": false,
+  "global": false,
+  "i18nresources": "academy-occ-d04-viniTres",
+  "source": 101,
+  "javascript": "academy-occ-d04-viniTres"
+}

@@ -1,0 +1,9 @@
+{
+  "widgetType": "pubsub1-jardel",
+  "version": 1,
+  "displayName": "pubsub1-jardel",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "pubsub1-jardel"
+}

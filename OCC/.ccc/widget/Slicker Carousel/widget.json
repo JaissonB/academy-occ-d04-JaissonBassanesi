@@ -1,0 +1,9 @@
+{
+  "widgetType": "slickerCarousel",
+  "version": 1,
+  "displayName": "Slicker Carousel",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "slickerCarousel"
+}

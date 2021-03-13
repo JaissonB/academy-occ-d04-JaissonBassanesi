@@ -1,0 +1,33 @@
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&display=swap" rel="stylesheet">
+<!-- ko if: show -->
+<div class="jumbotron">
+    <h1 class="text-center titulo-banner">Móveis sob medida com o melhor preço!</h1>
+    <div class="row d-flex justify-content-space-around">
+        <!-- ko foreach: recomendacoes -->
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 card-hover">
+            <div class="thumbnail card">
+                <a data-bind="ccLink : {route: route}">
+                    <img class='img-responsive center-block card__img'
+                    
+                    data-bind='ccResizeImage:{
+                        source: $data.fullImageURLs[0],
+                        alt: $data.displayName,
+                        errorSrc: "images/nolmage.png",
+                        errorAlt: "No Image found"}'>
+                        
+                    <h4 class="card__name text-center" data-bind="text: $data.displayName.slice(0,23)"></h4>
+                </a>
+
+                <p class="card__description" data-bind="text: $data.description"></p>
+                <p class="card__price" data-bind="text: '$' + $data.listPrice"></p> 
+                
+            </div>
+        </div>
+        <!-- /ko -->
+    </div>
+  </div>
+  <!-- /ko -->
+  
+  

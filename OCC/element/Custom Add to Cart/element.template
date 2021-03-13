@@ -1,0 +1,60 @@
+<div id="CC-prodDetails-addToCart" data-bind="inTabFlow:(validateAddToCart())">
+  <button data-bind="disabled: {condition: !validateAddToCart()}" id="cc-prodDetailsAddToCart" class="cc-button-primary" data-toggle="modal" data-target="#result_consorcio">
+    <!-- ko ifnot: stockState() === 'PREORDERABLE'-->
+    <span id="cc-prodDetails-addToCart" data-bind="widgetLocaleText: 'addToCartText'"></span>
+    <!-- /ko -->
+    <!-- ko if: stockState() === 'PREORDERABLE'-->
+    <span id="cc-prodDetails-addToCart" data-bind="widgetLocaleText: 'preOrderButtonText'"></span>
+    <!-- /ko -->
+  </button>
+</div>
+<!-- Modal -->
+<div class="modal fade" id="result_consorcio" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle"
+  aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 data-bind="text: product.displayName" class="modal-title" id="exampleModalLongTitle"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div class="img_modal">
+          <img data-bind="imageSource: {src: product().primaryMediumImageURL, imageType: 'small',
+                          errorSrc: '/img/no-image.jpg',
+                          errorAlt: 'Missing Product Image'}, 
+                          attr: {id: 'cc-product-image-'+id(), alt: displayName}">
+        </div>
+        <div class="info-detalhes">
+          <div>
+            <span data-bind="text: product().displayName" class="prdoduct_name-modal"></span>
+          </div>
+          <!-- ko if: $data.selectedSku() -->
+          <div>
+            <span>Plano :</span>
+            <span data-bind="text: $data.selectedSku().x_plano" class="tipo_plano"></span>
+          </div>
+          <div>
+            <span>Parcela :</span>
+            <span data-bind="text: $data.selectedSku().x_parcela" class="parcela_quantidade"></span>
+          </div>
+          <div>
+            <span>Valor da Parcela :</span>
+            <span data-bind="currency: {price: $data.selectedSku().x_valor,  currencyObj: $data.cart().currency}"></span>
+          </div>
+          <!-- /ko -->
+        </div>
+      </div>
+      <div class="modal-footer">
+        <!-- ko if: initialized() && $data.elements.hasOwnProperty('custom-add-to-cart') -->
+        <!-- ko with: $data['elements']['custom-add-to-cart'] -->
+        <button type="button" class="btn btn-secondary btn_close" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary btn_confirmar"
+          data-bind="click: $data.handleConfirm.bind($parent,$parent.product(), $parent.cart())">Acquirer</button>
+        <!-- /ko -->
+        <!-- /ko -->
+      </div>
+    </div>
+  </div>
+</div>

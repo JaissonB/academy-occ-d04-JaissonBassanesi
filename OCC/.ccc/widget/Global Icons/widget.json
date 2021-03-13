@@ -1,0 +1,9 @@
+{
+  "widgetType": "globalIcons",
+  "version": 1,
+  "displayName": "Global Icons",
+  "elementized": false,
+  "global": true,
+  "source": 101,
+  "javascript": null
+}

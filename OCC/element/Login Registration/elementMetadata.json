@@ -1,0 +1,190 @@
+{
+  "availableToAllWidgets": false,
+  "children": [],
+  "configOptions": [],
+  "inline": true,
+  "supportedWidgetType": [
+    "megaMenu",
+    "footer",
+    "categoryNavigation",
+    "headerWidget"
+  ],
+  "tag": "custom-login-registration",
+  "translations": [
+    {
+      "description": "เพิ่มอีลิเมนต์ล็อกอิน/การรีจิสเตอร์",
+      "language": "th",
+      "title": "ล็อกอิน/การรีจิสเตอร์"
+    },
+    {
+      "description": "Adicione os elementos Login/Registro.",
+      "language": "pt_BR",
+      "title": "Login/Registro"
+    },
+    {
+      "description": "添加登录/注册元素。",
+      "language": "zh_CN",
+      "title": "登录/注册"
+    },
+    {
+      "description": "Додайте елементи \"Вхід або реєстрація\".",
+      "language": "uk",
+      "title": "Вхід або реєстрація"
+    },
+    {
+      "description": "Добавете елементите за влизане/регистрация.",
+      "language": "bg",
+      "title": "Вход/Регистрация"
+    },
+    {
+      "description": "Saate lisada sisselogimise/registreerumise elemendi.",
+      "language": "et",
+      "title": "Sisselogimine/registreerumine"
+    },
+    {
+      "description": "Pievienot pieteikšanās/reģistrācijas elementus.",
+      "language": "lv",
+      "title": "Pietiekšanās/reģistrācija"
+    },
+    {
+      "description": "Legg til elementene for pålogging/registrering.",
+      "language": "no",
+      "title": "Pålogging/registrering"
+    },
+    {
+      "description": "Įtraukti Prisijungimo/registracijos elementus.",
+      "language": "lt",
+      "title": "Prisijungimas / registracija"
+    },
+    {
+      "description": "Ajouter les éléments de connexion/inscription.",
+      "language": "fr_CA",
+      "title": "Connexion/Inscription"
+    },
+    {
+      "description": "Adăugaţi elementele Conectare/Înregistrare.",
+      "language": "ro",
+      "title": "Conectare/Înregistrare"
+    },
+    {
+      "description": "ログイン/登録要素を追加します。",
+      "language": "ja",
+      "title": "ログイン/登録"
+    },
+    {
+      "description": "Dodajte elementa Prijava/Registracija.",
+      "language": "sl",
+      "title": "Prijava/Registracija"
+    },
+    {
+      "description": "Добавление элементов \"Вход/регистрация\".",
+      "language": "ru",
+      "title": "Вход/регистрация"
+    },
+    {
+      "description": "Dodajte elemente prijave/registracije.",
+      "language": "hr",
+      "title": "Prijava/registracija"
+    },
+    {
+      "description": "Oturum Açma/Kayıt öğelerini ekleyin.",
+      "language": "tr",
+      "title": "Oturum Açma/Kayıt"
+    },
+    {
+      "description": "Dodawanie elementów \"Logowanie/Rejestracja\".",
+      "language": "pl",
+      "title": "Logowanie/rejestracja"
+    },
+    {
+      "description": "新增「登入/註冊」要素。",
+      "language": "zh_TW",
+      "title": "登入/註冊"
+    },
+    {
+      "description": "로그인/등록 항목을 추가합니다.",
+      "language": "ko",
+      "title": "로그인/등록"
+    },
+    {
+      "description": "Přidat prvek přihlášení nebo registrace",
+      "language": "cs",
+      "title": "Přihlášení/registrace"
+    },
+    {
+      "description": "Hozzáadja a Bejelentkezés/Regisztráció elemeket.",
+      "language": "hu",
+      "title": "Bejelentkezés/Regisztráció"
+    },
+    {
+      "description": "Προσθήκη των στοιχείων για Σύνδεση/Εγγραφή.",
+      "language": "el",
+      "title": "Σύνδεση/Εγγραφή"
+    },
+    {
+      "description": "Tilføj elementerne Logon/registrering.",
+      "language": "da",
+      "title": "Logon/registrering"
+    },
+    {
+      "description": "Add the Login/Registration elements.",
+      "language": "en",
+      "title": "Login/Registration"
+    },
+    {
+      "description": "Додајте елементе пријављивања/регистрације.",
+      "language": "sr",
+      "title": "Пријављивање/регистрација"
+    },
+    {
+      "description": "Fügen Sie die Elemente \"Anmeldung\" und \"Registrierung\" hinzu.",
+      "language": "de",
+      "title": "Anmeldung/Registrierung"
+    },
+    {
+      "description": "Dodajte elemente prijavljivanja/registracije.",
+      "language": "sr_Latn",
+      "title": "Prijavljivanje/registracija"
+    },
+    {
+      "description": "Agregar los elementos de conexión/registro.",
+      "language": "es",
+      "title": "Conexión/Registro"
+    },
+    {
+      "description": "Ajouter les éléments Connexion/Enregistrement.",
+      "language": "fr",
+      "title": "Connexion/Enregistrement"
+    },
+    {
+      "description": "Aggiunge gli elementi Login/Registrazione.",
+      "language": "it",
+      "title": "Login/Registrazione"
+    },
+    {
+      "description": "Add the Login/Registration elements.",
+      "language": "en_GB",
+      "title": "Login/Registration"
+    },
+    {
+      "description": "De elementen Inloggen/Registreren toevoegen",
+      "language": "nl",
+      "title": "Inloggen/Registreren"
+    },
+    {
+      "description": "Lägg till elementen för inloggning/registrering.",
+      "language": "sv",
+      "title": "Inloggning/registrering"
+    },
+    {
+      "description": "Acrescente os elementos da Entrada em Sessão/Registo.",
+      "language": "pt",
+      "title": "Entrada em Sessão/Registo"
+    },
+    {
+      "description": "Sisäänkirjaus-/Rekisteröinti-elementtien lisäys.",
+      "language": "fi",
+      "title": "Sisäänkirjaus/rekisteröinti"
+    }
+  ]
+}

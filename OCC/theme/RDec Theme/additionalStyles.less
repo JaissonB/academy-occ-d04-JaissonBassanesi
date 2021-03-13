@@ -1,0 +1,458 @@
+
+.r-dec-root-site{
+   //begin reset css
+   a,p,div,span,strong,input,button, label{
+      font-family: @font;
+      margin-bottom: 0;
+   }
+   img{
+      width: 100%
+   }
+   
+   a{
+      color:inherit;
+      &:hover{
+         text-decoration: none;
+      }
+   }
+   strong{
+      font-weight: bold;
+   }
+
+   button{
+      border: none;
+      outline: none;
+      background: transparent;
+      &:active{
+         box-shadow: none!important;
+      }
+      &:hover{
+         font-family: @font;
+      }
+   }
+   
+   //end reset css
+   
+   //begin header
+   #headerWidget_v13-wi700042 #CC-headerWidget .header-background{
+      padding-top: 0;
+   }
+
+
+   //end header
+   // SÓ MUDAR A CLASS DE CHAMADA
+   .form-group{
+      & ~ .form-group{
+         margin-top: 8px;
+      }
+   }
+   input{
+      width: 100%;
+      outline: none;
+      background:  @cWhite;
+      border: 1px solid @cGray3;
+      border-radius: 4px;
+      padding: 13px 16px;
+      font-size: 14px;
+      line-height: 22px;
+      height: auto;
+      &::-webkit-input-placeholder {
+         color: @cGray3;
+         font-size: @p14;
+      }
+      &:-ms-input-placeholder {
+         color: @cGray3;
+         font-size: @p14;
+      }
+      &::placeholder {
+         color: @cGray3;
+         font-size: @p14;
+      }
+      &:focus{
+         outline:auto;
+         outline-color: @cBlue2;
+      }
+      &:disabled{
+         border-color: @cGray2;
+         &::-webkit-input-placeholder {
+            color: @cGray2;
+         }
+         &:-ms-input-placeholder {
+            color: @cGray2;
+         }
+         &::placeholder {
+            color: @cGray2;
+         }
+         & ~ label{
+            color: @cGray2
+         }
+      }
+   }
+   // begin default button
+   .r-dec-button{
+      width: 198px;
+      display: flex;
+      justify-content:center ;
+      align-items:center;
+      border-radius: 8px;
+      color: @cWhite;
+      font-size: 14px;
+      font-weight: bold;
+      outline: none;
+      .icon{
+         font-size: 24px;
+         margin-right: 8px;
+      }
+      &-primary{
+         height: 48px;
+      }
+      &-second{
+         height: 40px;
+      }
+      &-outline{
+         width: 196px;
+         height: 46px;
+         background: @cWhite;
+         color: @cBlue3;
+         border: solid 1px @cBlue3;
+         &:hover{
+            background: @cBlue3;
+            color: @cWhite;
+
+         }
+      }
+      &.button-alert{
+         margin-bottom: 0;
+         background: @cRed2;
+         &:hover{
+            background: @cRed1;
+         }
+         &:active{
+            background: @cRed3;
+         }
+      }
+      &.button-ok{
+         background: @cGreen2;
+         &:hover{
+            background: @cGreen1;
+         }
+         &:active{
+            background: @cGreen3;
+         }
+      }
+      &:disabled{
+         background: @cGray2;
+         border-color: @cGray2;
+         color: @cGray3;
+         &:hover{
+            background: @cGray2;
+            border-color: @cGray2;
+            color: @cGray3;
+         }
+      }
+   }
+   // begin links
+   .links{
+      font-weight: bold;
+      font-size: 14px;
+      line-height: 28px;
+      color: @cBlue3;
+      text-decoration:underline;
+      background: transparent;
+      padding:0;
+      cursor: pointer;
+   }
+   // end links
+   // end default button
+   .modal-content{
+      .close-modal{
+         color: @cGray3!important;
+         right: 16px;
+         position: absolute;
+         width: auto;
+         height: auto;
+         top: 16px;
+         font-size: 0.94rem;
+      }
+   }
+   .modal-header.CC-header-modal-heading{
+      margin-top: 20px;
+   }
+   #CC-linkForgotPasswd{
+      float: right;
+   }
+
+   //begin modal login
+
+  // estrutura do modal
+  #CC-LoginRegistrationModal{
+      // botao vermelho
+      #CC-userLoginSubmit, #CC-sendRequestSubmit, #CC-messagePaneClose, #CC-updatePasswordSave, #CC-updatePasswordMsgContinue{
+      background: @cRed2;
+      height: 48px;
+      &:hover{
+         background: @cRed1;
+      }
+      &:active{
+         background: @cRed3;
+      }
+      }
+      // botao outline
+      #CC-sendRequestCancel, #CC-updatePasswordCancel{
+      height: 46px;
+      background: @cWhite;
+      color: @cBlue3!important;
+      border: solid 1px @cBlue3;
+      &:hover{
+         background: @cBlue3;
+         color: @cWhite!important;
+
+      }
+      }
+      .cc-button-secondary{
+      margin-top: 8px;
+      }
+   }
+   //  login
+   #CC-loginUserPane{
+      .modal-footer{
+      padding-bottom: 0;
+      // esconde o botao cancelar
+      #CC-userLoginCancel{
+         display: none;
+      }
+      }
+      #CC-signup{
+      margin: -10px 0 15px 0!important;
+      hr{
+         display: none;
+      }
+      .CC-createAccount-div{
+         display: flex;
+         align-items: center;
+         justify-content: center;
+         h4{
+            font-size: 0.88rem;
+         }
+         button{
+            width: auto;
+            font-size: 0.88rem;
+            text-decoration-line: underline;
+            color: @cBlue3!important;
+            background:transparent;
+            
+         }
+      }
+      }
+   }
+   // esqueci senha
+   #CC-forgotPasswordSectionPane{
+      .modal-header{
+      padding-bottom: 0;
+      }
+      .modal-body{
+      padding-top: 10px;
+      text-align: center;
+      }
+      #CC-forgotPasswordSection{
+      margin: 28px 0 40px;
+      }
+      .modal-footer{
+      padding-top: 0;
+      }
+   }
+   //mensagem email enviado do esqueci a senha
+   #CC-forgotPasswordMessagePane{
+      .modal-header{
+      padding-bottom: 0;
+      }
+      #CC-forgotPassword-message{
+      font-size: 0.88rem;
+      background: transparent;
+      color: @cGray5;
+      padding-bottom: 0;
+      padding-top: 0;
+      text-align: center;
+      border: none;
+      }
+      .modal-footer{
+      padding-top: 0;
+      padding-bottom: 55px;
+      }
+
+   }
+   //atualizar senha
+   #CC-updatePasswordPane{
+      width: 100%;
+   }
+   // atualizacao senha com sucesso
+   #CC-updatePasswordMessagePane{
+      #CC-updatePasswordMsg-message{
+      font-size: 0.88rem;
+      background: transparent;
+      border: none;
+      text-align: center;
+      margin-top: 0;
+      margin-bottom: 0;
+      padding: 0!important;
+      color: @cGray5;
+      }
+      .modal-footer{
+      padding-bottom: 50px;
+      }
+   }
+   //end modal login
+
+   //begin search header
+   .search-box-container{
+      .search{
+      display: flex;
+      background: @cGray1;
+      padding: 0;
+      margin: 20px 0;
+      border-radius: 8px;
+      }
+      #CC-headerWidget-Search{
+      border: none;
+      box-shadow: none;
+      background: transparent;
+      color:@cGray5!important;
+      &:focus{
+      outline: none;
+      }
+      }
+      .input-group-btn{
+      width: 50px;
+      display: flex;
+      align-items: center;
+      box-shadow: none;
+
+      }
+      #searchSubmit{
+      box-shadow: none;
+      padding: 0;
+      color: @cGray2 !important;
+      background: transparent;
+      border: none;
+      height: 100%;
+      &:hover{
+         background: transparent;
+      }
+      }
+
+   }
+//end search header
+
+
+   // beginzerar um css que apareceu
+   @media (min-width: 768px){
+      #CC-headermodalpane .cc-modal-dialog {
+         width: 400px!important;
+      }
+   }
+   // end zerar um css que apareceu
+}
+
+
+
+#page.container{
+    width: 100%;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+
+
+/* begin custom r-dec buttons */
+
+button{
+   width: 100%;
+   display: flex;
+   justify-content:center ;
+   align-items:center;
+   border-radius: 8px!important;
+   color: @cWhite!important;
+   font-size: 0.88rem;
+   font-weight: bold!important;
+   outline: none;
+   & ~ button[type="button"]{
+      margin-top: 8px;
+   }
+   &:hover{
+      font-size: 0.88rem!important;
+   }
+   &:focus{
+      outline: none!important;
+   }
+   .icon{
+      font-size: 24px;
+      margin-right: 8px;
+   }
+   &.h48{
+      height: 48px;
+   }
+   &.h40{
+      height: 40px;
+   }
+   &-outline{
+      height: 46px;
+      background: @cWhite;
+      color: @cBlue3;
+      border: solid 1px @cBlue3;
+      &:hover{
+         background: @cBlue3;
+         color: @cWhite;
+
+      }
+   }
+   &.button-alert{
+      margin-bottom: 0;
+      background: @cRed2;
+      &:hover{
+         background: @cRed1;
+      }
+      &:active{
+         background: @cRed3;
+      }
+   }
+   &.button-ok{
+      background: @cGreen2;
+      &:hover{
+         background: @cGreen1;
+      }
+      &:active{
+         background: @cGreen3;
+      }
+   }
+   &:disabled{
+      background: @cGray2;
+      border-color: @cGray2;
+      color: @cGray3;
+      &:hover{
+         background: @cGray2;
+         border-color: @cGray2;
+         color: @cGray3;
+      }
+   }
+}
+/* end custom r-dec buttons */
+
+// begin modal default style
+.modal{
+   .modal-header{
+      h3{
+         color: @cBlue3;
+         text-align: center;
+         font-weight: bold;   
+      }
+   }
+}
+// end modal default style
+
+

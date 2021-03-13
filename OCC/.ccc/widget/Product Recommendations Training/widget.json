@@ -1,0 +1,10 @@
+{
+  "widgetType": "productRecommendationsTraining",
+  "version": 1,
+  "displayName": "Product Recommendations Training",
+  "elementized": true,
+  "global": false,
+  "i18nresources": "productRecommendationsTraining",
+  "source": 101,
+  "javascript": "recomendations-training"
+}

@@ -1,0 +1,21 @@
+{
+  "stackType": "progressTracker",
+  "regions": [
+    {
+      "repositoryId": "progressTrackerStageOne",
+      "name": "One"
+    },
+    {
+      "repositoryId": "progressTrackerStageTwo",
+      "name": "Two"
+    },
+    {
+      "repositoryId": "progressTrackerStageThree",
+      "name": "Three"
+    }
+  ],
+  "version": 1,
+  "displayName": "Progress Tracker",
+  "maxVariants": 10,
+  "canEditSubRegion": true
+}

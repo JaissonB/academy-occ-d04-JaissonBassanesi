@@ -1,0 +1,9 @@
+{
+  "widgetType": "rafael-notification",
+  "version": 1,
+  "displayName": "Rafael-notification",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "rafael-notification"
+}

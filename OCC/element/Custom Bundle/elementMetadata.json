@@ -1,0 +1,24 @@
+{
+  "availableToAllWidgets": true,
+  "children": [],
+  "configOptions": [],
+  "inline": true,
+  "tag": "custom-bundle",
+  "translations": [
+    {
+      "description": "Add the elements of the Bundle.",
+      "language": "en",
+      "title": "Custom Bundle"
+    },
+    {
+      "description": "Adicione os elementos do Bundle.",
+      "language": "pt_BR",
+      "title": "Custom Bundle"
+    },
+    {
+      "description": "Agregar los elementos del Bundle.",
+      "language": "es",
+      "title": "Custom Bundle"
+    }
+  ]
+}

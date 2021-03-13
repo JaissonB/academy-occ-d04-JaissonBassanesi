@@ -1,0 +1,9 @@
+{
+  "widgetType": "guilherme_home",
+  "version": 1,
+  "displayName": "guilherme_home",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "guilherme_home"
+}

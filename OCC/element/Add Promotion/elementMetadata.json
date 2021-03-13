@@ -1,0 +1,24 @@
+{
+  "availableToAllWidgets": false,
+  "children": [],
+  "configOptions": [],
+  "inline": false,
+  "supportedWidgetType": [
+    "customOrderSummary",
+    "checkoutOrderSummary",
+    "shoppingCartSummary"
+  ],
+  "tag": "custom-add-promotion",
+  "translations": [
+    {
+      "description": "Add Promotion",
+      "language": "en",
+      "title": "Add Promotion"
+    },
+    {
+      "description": "Adicionar Promoção",
+      "language": "pt_BR",
+      "title": "Adicionar Promoção"
+    }
+  ]
+}

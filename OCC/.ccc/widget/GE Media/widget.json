@@ -1,0 +1,9 @@
+{
+  "widgetType": "gemedia",
+  "version": 1,
+  "displayName": "GE Media",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "gemedia"
+}

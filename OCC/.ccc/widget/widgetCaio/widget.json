@@ -1,0 +1,9 @@
+{
+  "widgetType": "widgetCaio",
+  "version": 1,
+  "displayName": "widgetCaio",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "widgetCaio"
+}

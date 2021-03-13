@@ -1,0 +1,9 @@
+{
+  "widgetType": "customdisplay-carlos",
+  "version": 1,
+  "displayName": "customdisplay-carlos",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "customdisplay-carlos"
+}

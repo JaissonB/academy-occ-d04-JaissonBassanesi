@@ -1,0 +1,19 @@
+{
+  "availableToAllWidgets": true,
+  "children": [],
+  "configOptions": [],
+  "inline": false,
+  "tag": "sda-custom-login-registration",
+  "translations": [
+    {
+      "description": "sda-custom-login-registration",
+      "language": "en",
+      "title": "sda-custom-login-registration"
+    },
+    {
+      "description": "sda-custom-login-registration",
+      "language": "pt_BR",
+      "title": "sda-custom-login-registration"
+    }
+  ]
+}

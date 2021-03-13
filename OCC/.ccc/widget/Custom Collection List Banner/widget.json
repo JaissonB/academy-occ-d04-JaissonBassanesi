@@ -1,0 +1,10 @@
+{
+  "widgetType": "customCollectionListBanner",
+  "version": 1,
+  "displayName": "Custom Collection List Banner",
+  "elementized": false,
+  "global": false,
+  "i18nresources": "customCollectionListBanner",
+  "source": 101,
+  "javascript": "customCollectionListBanner"
+}

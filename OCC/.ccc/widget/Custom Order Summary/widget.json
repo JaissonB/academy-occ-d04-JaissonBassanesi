@@ -1,0 +1,10 @@
+{
+  "widgetType": "customOrderSummary",
+  "version": 1,
+  "displayName": "Custom Order Summary",
+  "elementized": true,
+  "global": false,
+  "i18nresources": "customOrderSummary",
+  "source": 101,
+  "javascript": "customOrderSummary"
+}

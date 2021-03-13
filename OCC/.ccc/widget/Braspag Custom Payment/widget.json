@@ -1,0 +1,10 @@
+{
+  "widgetType": "braspagCustomPayment",
+  "version": 1,
+  "displayName": "Braspag Custom Payment",
+  "elementized": false,
+  "global": false,
+  "i18nresources": "braspagCustomPayment",
+  "source": 101,
+  "javascript": "braspagCustomPayment"
+}

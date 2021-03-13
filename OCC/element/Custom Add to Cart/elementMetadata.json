@@ -1,0 +1,27 @@
+{
+  "availableToAllWidgets": false,
+  "children": [],
+  "configOptions": [],
+  "inline": true,
+  "supportedWidgetType": [
+    "productDetails"
+  ],
+  "tag": "custom-add-to-cart",
+  "translations": [
+    {
+      "description": "Custom Add to Cart",
+      "language": "en",
+      "title": "Custom Add to Cart"
+    },
+    {
+      "description": "Botão do produto customizado",
+      "language": "pt_BR",
+      "title": "Custom Add to Cart"
+    },
+    {
+      "description": "Botão do produto customizado",
+      "language": "es",
+      "title": "Custom Add to Cart"
+    }
+  ]
+}

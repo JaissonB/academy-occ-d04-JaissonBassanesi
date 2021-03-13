@@ -1,0 +1,10 @@
+{
+  "widgetType": "headerCustom",
+  "version": 12,
+  "displayName": "Header Custom",
+  "elementized": true,
+  "global": false,
+  "i18nresources": "headerCustom",
+  "source": 101,
+  "javascript": "header-custom"
+}

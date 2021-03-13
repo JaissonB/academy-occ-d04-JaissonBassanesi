@@ -1,0 +1,9 @@
+{
+  "widgetType": "talisd5",
+  "version": 1,
+  "displayName": "TalisD5",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "talisd5"
+}

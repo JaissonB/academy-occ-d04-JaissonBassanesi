@@ -1,0 +1,9 @@
+{
+  "widgetType": "gelearningparameters",
+  "version": 1,
+  "displayName": "GE Learning Parameters",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "gelearningparameters"
+}

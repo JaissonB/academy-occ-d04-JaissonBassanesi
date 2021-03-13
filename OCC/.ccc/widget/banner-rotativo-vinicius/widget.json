@@ -1,0 +1,9 @@
+{
+  "widgetType": "banner-rotativo-vinicius",
+  "version": 1,
+  "displayName": "banner-rotativo-vinicius",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "banner-rotativo-vinicius"
+}

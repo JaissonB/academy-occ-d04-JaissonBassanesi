@@ -1,0 +1,9 @@
+{
+  "widgetType": "lm-fragments",
+  "version": 1,
+  "displayName": "LM - Fragments",
+  "elementized": true,
+  "global": false,
+  "source": 101,
+  "javascript": "lm-fragments"
+}

@@ -1,0 +1,9 @@
+{
+  "widgetType": "guilherme-fragment",
+  "version": 1,
+  "displayName": "guilherme-fragment",
+  "elementized": true,
+  "global": false,
+  "source": 101,
+  "javascript": "guilherme-fragment"
+}

@@ -1,0 +1,10 @@
+{
+  "widgetType": "r-dec-banner-home",
+  "version": 1,
+  "displayName": "r-dec-banner-home",
+  "elementized": false,
+  "global": false,
+  "i18nresources": "r-dec-banner-home",
+  "source": 101,
+  "javascript": null
+}

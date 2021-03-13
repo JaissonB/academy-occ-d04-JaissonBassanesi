@@ -1,0 +1,19 @@
+{
+  "availableToAllWidgets": true,
+  "children": [],
+  "configOptions": [],
+  "inline": false,
+  "tag": "r-dec-custom-header-element",
+  "translations": [
+    {
+      "description": "R-DEC Custom header element",
+      "language": "en",
+      "title": "r-dec-custom-header-element"
+    },
+    {
+      "description": "R-DEC Custom header element",
+      "language": "pt_BR",
+      "title": "r-dec-custom-header-element"
+    }
+  ]
+}

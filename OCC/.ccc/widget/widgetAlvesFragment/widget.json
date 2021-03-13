@@ -1,0 +1,9 @@
+{
+  "widgetType": "widgetalvesfragment",
+  "version": 1,
+  "displayName": "widgetAlvesFragment",
+  "elementized": true,
+  "global": false,
+  "source": 101,
+  "javascript": "widgetalvesfragment"
+}

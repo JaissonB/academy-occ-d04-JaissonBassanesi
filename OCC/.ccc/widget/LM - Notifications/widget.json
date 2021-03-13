@@ -1,0 +1,9 @@
+{
+  "widgetType": "lm-notifications",
+  "version": 1,
+  "displayName": "LM - Notifications",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "lm-notifications"
+}

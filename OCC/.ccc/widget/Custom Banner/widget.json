@@ -1,0 +1,9 @@
+{
+  "widgetType": "customBanner",
+  "version": 1,
+  "displayName": "Custom Banner",
+  "elementized": false,
+  "global": false,
+  "source": 101,
+  "javascript": "custom-banner"
+}
